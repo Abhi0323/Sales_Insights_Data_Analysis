@@ -8,6 +8,7 @@ I worked on a project called Sales Insights that involved utilizing the analytic
 Project Overview
 
 Data Cleaning and Exploration using Excel and SQL
+
 Visualization using Power BI
 
 Data Cleaning and Exploration using Excel and SQL:
